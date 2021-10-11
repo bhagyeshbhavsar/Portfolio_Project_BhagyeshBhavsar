@@ -1,0 +1,22 @@
+extends header
+
+block content
+    #con.container
+      h3 CONTACT ME
+      form(action='https://formcarry.com/s/mCqzZ5BfE8QE' method='POST' acceptcharset='UTF-8')
+        .form-group
+          label(htmlfor='usr') Name:
+          input#usr.form-control(type='text' name='name')
+        .form-group
+          label(htmlfor='email') Email:
+          input#email.form-control(type='email' name='email')
+        .form-group
+          label(htmlfor='phone') Phone:
+          input#phone.form-control(type='text' name='phone')
+        .form-group
+          label(htmlfor='message') Message:
+          textarea#message.form-control(rows='5' name='message')
+          br
+          button.btn.btn-primary(type='submit') Submit
+    block content
+        include footer

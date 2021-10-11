@@ -1,0 +1,3 @@
+C:\College\Code\Portfolio_Project\Portfolio_Project_BhagyeshBhavsar\obj\Debug\Portfolio_Project_BhagyeshBhavsar.njsproj.AssemblyReference.cache
+C:\College\Code\Portfolio_Project\Portfolio_Project_BhagyeshBhavsar\obj\Debug\Portfolio_Project_BhagyeshBhavsar.njsproj.CoreCompileInputs.cache
+C:\College\Code\Portfolio_Project\Portfolio_Project_BhagyeshBhavsar\bin\Microsoft.NodejsTools.WebRole.dll
